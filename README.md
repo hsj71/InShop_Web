@@ -7,7 +7,7 @@ This project is a **responsive web-based application** designed to simulate or p
 Developed using core web technologies like **JavaScript, CSS, and HTML**, it aims to deliver an interactive and visually appealing user experience.
 
 ---
-## https://hsj71.github.io/InShop_Web/
+## [https://hsj71.github.io/InShop_Web/](https://hsj71.github.io/Web-InShop/)
 ---
 <img src="/Display/Screenshot%20(876).png"> </img>
 <img src="/Display/Screenshot%20(877).png"> </img>
